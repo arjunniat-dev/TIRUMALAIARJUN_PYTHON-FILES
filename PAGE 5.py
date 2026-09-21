@@ -1,0 +1,27 @@
+#q:1
+name='TIRUMALAI ARJUN'
+#q:2
+age=18
+#q:3
+marks=60
+#q:4
+price=70
+#q:5
+city='Chennai'
+print(city)
+#q:6
+score=70
+print(score)
+#q:7
+x=10
+print(x)
+#q:8
+message='Welcome'
+print(message)
+#q:9
+a,b=10,20
+print(a+b)
+#q:10
+quantity=5
+price=10
+print(quantity*price)

@@ -1,0 +1,26 @@
+#Q:1
+print(2+5)
+#Q:2
+num1=2
+num2=5
+print(num1+num2)
+#Q:3
+print(10-3)
+#Q:4
+num1=10
+num2=3
+print(num1-num2)
+#Q:5
+print("Hello World!")
+#Q:6
+print("Python")
+#Q:7
+print("Hello")
+#Q:8
+print("Hello")
+#Q:9
+print(10+20)
+#Q:10
+num1=10
+num2=20
+print(num1+num2)
